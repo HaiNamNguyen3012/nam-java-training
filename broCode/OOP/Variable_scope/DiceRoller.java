@@ -1,4 +1,4 @@
-package broCode.OOP;
+package broCode.OOP.Variable_scope;
 
 import java.util.Random;
 

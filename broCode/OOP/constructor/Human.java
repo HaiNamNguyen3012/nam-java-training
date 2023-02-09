@@ -1,4 +1,4 @@
-package broCode.OOP;
+package broCode.OOP.constructor;
 // OOP constructor
 public class Human {
     String name;

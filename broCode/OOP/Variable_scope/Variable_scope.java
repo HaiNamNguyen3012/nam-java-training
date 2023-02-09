@@ -1,4 +1,4 @@
-package broCode.OOP;
+package broCode.OOP.Variable_scope;
 
 public class Variable_scope {
     public static void main(String[] args){

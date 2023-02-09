@@ -1,6 +1,7 @@
-package broCode.OOP;
-// This file is part of the OOP Object
+package broCode.OOP.object;
+
 public class Car {
+    // Object OOP
     String make = "Chevrolet";
     String model = "Corvette";
     int year = 2020;
